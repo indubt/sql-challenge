@@ -2,22 +2,19 @@
 Repo for Module9 - SQL Challenge
 
 ## Repo Structure
-
-sql-challenge
-|
-|__EmployeeSQL
-|   |__ERD.png
-|   |__queries.sql
-|   |__Schema.sql
-|
-|__Resources
-    |
-    |__departments.csv
-    |__employees.csv
-    |__titles.csv
-    |__salaries.csv
-    |__dept_emp.csv
-    |__dept_manager.csv
+    sql-challenge
+        |__ EmployeeSQL
+           |__ERD.png
+           |__queries.sql
+           |__Schema.sql
+           
+        |__ Resources
+            |__departments.csv
+            |__employees.csv
+            |__titles.csv
+            |__salaries.csv
+            |__dept_emp.csv
+            |__dept_manager.csv
 
 ## Data Modeling
 
